@@ -1,0 +1,2 @@
+Stworzdenie gry w statki w trybie singleplayer.
+1. Stworzenie
